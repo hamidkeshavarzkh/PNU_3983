@@ -1,5 +1,2 @@
-Github.com/arminmns
-
-arminmns.github.io/resume
-
-Quera.ir/profile/armin.mansoori7881
+http://github.com/arminmns
+http://arminmns.github.io/resume
