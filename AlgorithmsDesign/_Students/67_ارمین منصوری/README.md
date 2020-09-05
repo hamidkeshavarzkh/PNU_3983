@@ -1,2 +1,2 @@
-http://github.com/arminmns
-http://arminmns.github.io/resume
+http://github.com/arminmns  : ادرس گیت هاب
+http://arminmns.github.io/resume  :ادرس رزومه
